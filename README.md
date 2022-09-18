@@ -16,5 +16,3 @@ Ans: using bell curve of best data model.
 
 This is an attempt to learn designing various data models by studying correlation plot using Regression in R using various metrics like R^2, F stat value. 
 I learnt Single linear regression, Multiple regression.
-The datasets were scraped from a website https://www.worldometers.info/demographics/life-expectancy/#countries-ranked-by-life-expectancy (Links to an external site.)
-https://www.worldometers.info/world-population/population-by-country/ (Links to an external site.)
